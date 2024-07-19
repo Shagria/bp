@@ -1,8 +1,8 @@
-## LLM experiments
+# LLM experiments
 This repository contains prompts and model's answears from experiments for batchelors thesis.
 Includes cognitive bias experiment and debiasing method.
 
-# The repository is structured as such:
+## The repository is structured as such:
 **1-\<Model\>** : contains answears of given model to a prompt located under name **1-Original prompt**
 
 **2-\<Model\>** : contains answears of given model to a prompt located under name **2-Hashed prompt with added description**
